@@ -50,14 +50,8 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ### Dataset
 
-* [UFO Sightings Data](UF)-Level-1/static/js/data.js)
+* [UFO Sightings Data](UFO-Level-1%20/static/js/data.js)
 
 - - -
 
 **Good luck!**
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
